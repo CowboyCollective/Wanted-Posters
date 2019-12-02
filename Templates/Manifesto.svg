@@ -8,43 +8,43 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
+   sodipodi:docname="Manifesto.svg"
+   inkscape:version="1.0beta1 (1:0.92.0+devel+201911291126+df8a29a)"
    id="svg8"
-   inkscape:version="1.0beta1 (1:0.92.0+devel+201911251127+a87f16c)"
-   sodipodi:docname="Manifesto.svg">
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
   <defs
      id="defs2">
     <ellipse
-       transform="rotate(90)"
-       ry="200.95993"
-       rx="56.275372"
-       cy="-306.51697"
-       cx="84.729156"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.638062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="path866"
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.638062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+       cx="84.729156"
+       cy="-306.51697"
+       rx="56.275372"
+       ry="200.95993"
+       transform="rotate(90)" />
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.50463611"
-     inkscape:cx="487.41884"
-     inkscape:cy="775.98873"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="0"
+     inkscape:window-maximized="1"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="0"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="743.94182"
+     inkscape:cx="545.4843"
+     inkscape:zoom="0.47373717"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,116 +53,116 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <rect
-       style="fill:#f4e3d7;stroke-width:0.268475;stop-color:#000000"
-       id="rect38"
-       width="210"
-       height="297"
+       y="0"
        x="0"
-       y="0" />
+       height="297"
+       width="210"
+       id="rect38"
+       style="fill:#f4e3d7;stroke-width:0.268475;stop-color:#000000" />
     <text
-       id="text882"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.0263px;line-height:1.25;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';text-align:center;letter-spacing:3.96574px;word-spacing:0px;text-anchor:middle;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.644267"
-       xml:space="preserve"
-       x="-158.79837"
+       transform="matrix(0.67920025,0,0,0.67920025,-101.27121,-7.2472589)"
        y="-19.170071"
-       transform="matrix(0.67920025,0,0,0.67920025,-101.27121,-7.2472589)"><textPath
-         id="textPath884"
-         startOffset="50%"
+       x="-158.79837"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.0263px;line-height:1.25;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';text-align:center;letter-spacing:3.96574px;word-spacing:0px;text-anchor:middle;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.644267"
+       id="text882"><textPath
+         style="fill:#502d16;stroke-width:0.644267"
          xlink:href="#path866"
-         style="fill:#502d16;stroke-width:0.644267"><tspan
-           id="tspan880"
-           style="fill:#502d16;stroke-width:0.644267"><tspan
-             x="-9.7841349"
-             y="15.347287"
+         startOffset="50%"
+         id="textPath884"><tspan
+           style="fill:#502d16;stroke-width:0.644267"
+           id="tspan880"><tspan
+             id="tspan878"
              style="font-style:normal;letter-spacing:3.96574px;fill:#502d16;stroke-width:0.644267"
-             id="tspan878">THE COWBOY COLLECTIVE</tspan></tspan></textPath></text>
+             y="15.347287"
+             x="-9.7841349">THE COWBOY COLLECTIVE</tspan></tspan></textPath></text>
     <flowRoot
-       transform="matrix(0.61157167,0,0,0.61157167,-80.276989,40.295636)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8713px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       xml:space="preserve"
        id="flowRoot847"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.4979px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         id="flowRegion849"><rect
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.4979px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           y="0"
-           x="0"
-           height="345.60001"
-           width="614.40002"
-           id="rect851" /></flowRegion><flowPara
-         id="flowPara843"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';fill:#502d16">Manifesto</flowPara></flowRoot>
-    <rect
-       style="fill:#502d16;stroke-width:0.209979;stop-color:#000000"
-       id="rect40"
-       width="171.31316"
-       height="4.1217017"
-       x="22.747578"
-       y="76.16272"
-       ry="1.2827555" />
-    <rect
-       ry="1.2827555"
-       y="33.829384"
-       x="22.747578"
-       height="4.1217017"
-       width="171.31316"
-       id="rect42"
-       style="fill:#502d16;stroke-width:0.209979;stop-color:#000000" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot50"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5098px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       transform="matrix(0.30221154,0,0,0.30221154,14.776352,86.838805)"><flowRegion
-         id="flowRegion46"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"><rect
-           id="rect44"
-           width="614.40002"
-           height="647.79059"
-           x="0"
-           y="0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
-         id="flowPara62">Is there an icon more more deeply tied to American masculinity than that of the cowboy? The lone ranger, who rides into town on his horse, cleans the place up with his whit and his gun, and rides out of town on his horse. He is brave, hardworking, improves the lives of the people around him, and he’s not working for the recognition or the fame, but out the goodness of his heart.</flowPara><flowPara
-         id="flowPara936"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16" /><flowPara
-         id="flowPara938"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16">These are the values of the cowboy, and they’re admirable ones to hold. Unfortunately, American masculinity is suffering these days. It’s stifling, and it’s teaching our cowboys some bad lessons in addition to the good ones. It tells us that we can’t talk about our feelings, that we can’t dress in fun colors, that we can’t ask for help, that acts of violence is our only tool for problem solving.</flowPara><flowPara
-         id="flowPara940"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16" /><flowPara
-         id="flowPara942"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16">Some people might look at all the harm that cowboys are doing and want to abolish the cowboy, cast away this rugged fighter in our efforts to make the world a little more civilized. But I am an American boy, and I’ll always be a cowboy in my heart! I want to embrace the cowboy. I want to be a good cowboy. I want to write more cowboy stories, ones where maybe he does ask for help, and is celebrated for doing so.</flowPara><flowPara
-         id="flowPara944"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16" /><flowPara
-         id="flowPara946"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16">This is the mission of the <flowSpan
-   id="flowSpan950"
-   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy'">Cowboy Collective</flowSpan>: to build a more inclusive vision of what a cowboy can be. I want everyone to know that <flowSpan
-   id="flowSpan964"
-   style="-inkscape-font-specification:'Besley* Heavy';font-family:'Besley*';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">it doesn’t matter where you’re from, who you are, or what your story is, you too, can be a cowboy.</flowSpan></flowPara><flowPara
-         id="flowPara948"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';text-align:start;text-anchor:start;fill:#502d16" /></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot962"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8713px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       transform="matrix(0.33132417,0,0,0.33132417,5.9129334,271.7701)"><flowRegion
-         id="flowRegion958"
+       transform="matrix(0.61157167,0,0,0.61157167,-80.276989,40.295636)"><flowRegion
+         id="flowRegion849"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.4979px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"><rect
-           id="rect956"
+           id="rect851"
            width="614.40002"
            height="345.60001"
            x="0"
            y="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.4979px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';fill:#502d16"
-         id="flowPara960">CowboyCollective.cc</flowPara></flowRoot>
+         id="flowPara843">Manifesto</flowPara></flowRoot>
+    <rect
+       ry="1.2827555"
+       y="76.16272"
+       x="22.747578"
+       height="4.1217017"
+       width="171.31316"
+       id="rect40"
+       style="fill:#502d16;stroke-width:0.209979;stop-color:#000000" />
+    <rect
+       style="fill:#502d16;stroke-width:0.209979;stop-color:#000000"
+       id="rect42"
+       width="171.31316"
+       height="4.1217017"
+       x="22.747578"
+       y="33.829384"
+       ry="1.2827555" />
+    <flowRoot
+       transform="matrix(0.30221154,0,0,0.30221154,14.776352,86.838805)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5098px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="flowRoot50"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="flowRegion46"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           y="0"
+           x="0"
+           height="647.79059"
+           width="614.40002"
+           id="rect44" /></flowRegion><flowPara
+         id="flowPara62"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16">Is there an icon more more deeply tied to American masculinity than that of the cowboy? The lone ranger, who rides into town on his horse, cleans the place up with his wit and his gun, and rides out of town on his horse. He is brave, hardworking, improves the lives of the people around him, and he’s not working for the recognition or the fame, but out the goodness of his heart.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara936" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara938">These are the values of the cowboy, and they’re admirable ones to hold. Unfortunately, American masculinity is suffering these days. It’s stifling, and it’s teaching our cowboys some bad lessons in addition to the good ones. It tells us that we can’t talk about our feelings, that we can’t dress in fun colors, that we can’t ask for help, that acts of violence is our only tool for problem solving.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara940" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara942">Some people might look at all the harm that cowboys are doing and want to abolish the cowboy, cast away this rugged fighter in our efforts to make the world a little more civilized. But I am an American boy, and I’ll always be a cowboy in my heart! I want to embrace the cowboy. I want to be a good cowboy. I want to write more cowboy stories, ones where maybe he does ask for help, and is celebrated for doing so.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara944" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Medium';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara946">This is the mission of the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy'"
+   id="flowSpan950">Cowboy Collective</flowSpan>: to build a more inclusive vision of what a cowboy can be. I want everyone to know that <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy'"
+   id="flowSpan964">it doesn’t matter where you’re from, who you are, or what your story is, you too, can be a cowboy.</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';text-align:start;text-anchor:start;fill:#502d16"
+         id="flowPara948" /></flowRoot>
+    <flowRoot
+       transform="matrix(0.33132417,0,0,0.33132417,5.9129334,271.7701)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8713px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="flowRoot962"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.4979px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="flowRegion958"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.4979px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';font-variation-settings:normal;text-align:center;word-spacing:0px;text-anchor:middle;vector-effect:none;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.347228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           y="0"
+           x="0"
+           height="345.60001"
+           width="614.40002"
+           id="rect956" /></flowRegion><flowPara
+         id="flowPara960"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Besley*';-inkscape-font-specification:'Besley* Heavy';fill:#502d16">CowboyCollective.cc</flowPara></flowRoot>
   </g>
 </svg>
